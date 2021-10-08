@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDungeon", "MyDungeon.csproj", "{ACBBFF3F-7468-42CC-BA39-CCD3D64BDAA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcertLibrary", "..\ConcertLibrary\ConcertLibrary.csproj", "{C5F77C99-47CA-4184-A4AB-4B9015BD2DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACBBFF3F-7468-42CC-BA39-CCD3D64BDAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBBFF3F-7468-42CC-BA39-CCD3D64BDAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBBFF3F-7468-42CC-BA39-CCD3D64BDAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBBFF3F-7468-42CC-BA39-CCD3D64BDAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F77C99-47CA-4184-A4AB-4B9015BD2DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F77C99-47CA-4184-A4AB-4B9015BD2DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F77C99-47CA-4184-A4AB-4B9015BD2DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F77C99-47CA-4184-A4AB-4B9015BD2DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73205BA8-8FD1-4307-A77F-0C5CAF76AD9D}
+	EndGlobalSection
+EndGlobal
